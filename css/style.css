@@ -1,0 +1,1150 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: sans-serif;
+	line-height: 24px;
+	font-size: 14px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+}
+a,a:hover{
+	text-decoration: none;
+}
+/******************************************/
+/*header and banner-section css code start*/
+/******************************************/
+.header-section{
+    width: 100%;
+    background: url(../img/Group8.png) center top no-repeat;
+    background-size: cover;
+}
+.bg-light {
+    background-color: transparent!important;
+    padding: 13px 0px;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    font-size: 17px;
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 18px;
+}
+.main-nav img{
+    width: 66%;
+}
+.banner img{
+    width: 100%;
+}
+.banner-section{
+    width: 100%;
+    padding: 83px 0px 35px;
+}
+.banner-inner{
+    width: 100%;
+    margin-top: 25%;
+}
+.banner-inner h1{
+    color: #00a4d3;
+    font-size: 52px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
+.banner-inner h2{
+    color: #00a4d3;
+    font-size: 26px;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
+.banner-inner .btn-info{
+    padding: 8px 20px;
+    color: #fff;
+    text-transform: uppercase;
+    background: #00a4d3;
+    border: 1px solid #00a4d3;
+    border-radius: 2px;
+    font-size: 16px; 
+    font-weight: 600;
+    margin-top: 15px;
+    margin-left: 35%;
+}
+.banner-inner .btn-info:hover{
+    color: #00a4d3;
+    background: transparent;
+    border: 1px solid #00a4d3;
+    transition: 1s;
+}
+/******************************************/
+/*header and banner-section code End*/
+/******************************************/
+
+/*********************************/
+/*About us section css code start*/
+/*********************************/
+.aboutus-section{
+    width: 100%;
+    background: url(../img/a1.png) center top no-repeat;
+    background-size: cover;
+    padding: 68px 0px;
+}
+.abut-u img{
+    width: 100%;
+}
+.aboutus-section .about h3{
+    color: #fff;
+    margin-top: 15px;
+    font-family: 'Dosis', sans-serif;
+}
+.aboutus-section .about h1{
+    font-size: 39px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 30px;
+    font-family: 'Dosis', sans-serif;
+}
+.aboutus-section .about p{
+    font-size: 15px;
+    color: #a1ddef;
+    font-family: 'Roboto', sans-serif;
+}
+.aboutus-section .about .btn-info{
+    font-size: 16px;
+    color: #0fa9d6;
+    background: #fff;
+    border: 1px solid #fff;
+    padding: 4px 18px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    margin-top: 24px;
+}
+.aboutus-section .about .btn-info:hover{
+    color: #fff;
+    background: transparent;
+}
+/*********************************/
+/*About us section css code end*/
+/*********************************/
+
+/********************************/
+/*courses-section css code start*/
+/********************************/
+.courses-section{
+    width: 100%;
+    padding: 55px 0px 62px;
+}
+.courses-section .col-md-3{
+    padding: 0px;
+    margin: 0px;
+}
+.courses-section .course h1{
+    font-size: 45px;
+    font-weight: 600;
+    color: #00a4d3;
+    font-family: 'Dosis', sans-serif;
+}
+.courses-section .course p{
+    font-size: 15px;
+    margin-bottom: 45px;
+    font-family: 'Roboto', sans-serif;
+}
+.courses-section .course1{
+    
+}
+.courses-section .course1 img{
+    width: 100%;
+}
+.courses-section .course2{
+    width: 100%;
+    padding: 52px 50px;
+    background: #fafafa;
+    border-radius: 28px 28px 0px 0px;
+}
+.courses-section .course01{
+    width: 100%;
+    padding: 52px 50px;
+    background: #fafafa;
+    border-radius: 0px 0px 28px 28px;
+}
+.courses-section .course2 i{
+    font-size: 16px;
+    color: #3f3f3f;
+    margin-bottom: 12px;
+}
+.courses-section .course2 h4{
+    font-family: 'Roboto Slab', serif;
+}
+.courses-section .course2 p{
+    color: #9a9a9a;
+    font-family: 'Roboto Slab', serif;
+}
+.courses-section .course2 a{
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.courses-section .course01 i{
+    font-size: 16px;
+    color: #3f3f3f;
+    margin-bottom: 12px;
+}
+.courses-section .course01 p{
+    color: #9a9a9a;
+    font-family: 'Roboto Slab', serif;
+}
+.courses-section .course01 h4{
+    font-family: 'Roboto Slab', serif;
+}
+.courses-section .course01 a{
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+/********************************/
+/*courses-section css code end*/
+/********************************/
+
+/***********************************/
+/*Facilities section css code start*/
+/***********************************/
+.facilities_section{
+    width: 100%;
+    background: url(../img/courses.png) center top no-repeat;
+    background-size: cover;
+    padding: 50px 0px;
+}
+.facilities_section .facilities1 img{
+    width: 100%;
+}
+.facilities{
+    width: 100%;
+    height: 120px;
+    background: #fff;
+    margin-top: 120%;
+    border-radius: 20px;
+}
+.facilities:hover{
+    background: #fdd02e;
+}
+.facilities p:hover{
+    color: #fff;
+}
+.facilitie:hover{
+    background: #fdd02e;
+}
+.facilitie a p:hover{
+    color: #fff;
+}
+.facilities img{
+    margin-top: 12%;
+    margin-left: 34%;
+}
+.facilities p{
+    font-size: 15px;
+    font-weight: 600;
+    color: #40bbde;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.facilitie{
+    width: 100%;
+    height: 120px;
+    background: #fff;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.facilitie img{
+    margin-top: 12%;
+    margin-left: 34%;
+}
+.facilitie a p{
+    font-size: 15px;
+    font-weight: 600;
+    color: #40bbde;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+}   
+.fa2 h2{
+    font-size: 35px;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 14px;
+    font-family: 'Dosis', sans-serif;
+}
+.fa2 p{
+    color: #fff;
+    font-size: 15px;
+    margin-top: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+/***********************************/
+/*Facilities section css code end*/
+/***********************************/
+
+/*********************************/
+/*Teachers section css code start*/
+/*********************************/
+.teachers-section{
+    width: 100%;
+    padding: 50px 0px;
+}
+.teachers-section .teacher h2{
+    font-size: 35px;
+    color: #00a4d3;
+    font-weight: 600;
+    margin-top: 14px;
+    font-family: 'Dosis', sans-serif;
+}
+.teachers-section .teacher p{
+    font-size: 15px;
+    margin-top: 18px;
+    font-weight: 500;
+    margin-bottom: 45px;
+    font-family: 'Roboto', sans-serif;
+}
+.teachers{
+    width: 100%;
+    margin-bottom: 27px;
+}
+.teachers img{
+    width: 100%;
+}
+.teachers .teach-inner1{
+    width: 89.5%;
+    height: 20%;
+    background: #049285;
+    position: absolute;
+    top: 70.5%;
+    border-radius: 0px 0px 0px 25px;
+    text-align: center;
+}
+.teachers .teach-inner2{
+    width: 89.5%;
+    height: 20%;
+    background: #049285;
+    position: absolute;
+    top: 70.5%;
+    border-radius: 0px 0px 25px 0px;
+    text-align: center;
+}
+.teachers .teach-inner3{
+    width: 89.5%;
+    height: 20%;
+    background: #049285;
+    position: absolute;
+    top: 70.5%;
+    border-radius: 0px 0px 0px 25px;
+    text-align: center;
+}
+.teachers .teach-inner4{
+    width: 89.5%;
+    height: 20%;
+    background: #049285;
+    position: absolute;
+    top: 70.5%;
+    border-radius: 0px 0px 25px 0px;
+    text-align: center;
+}
+.teachers .teach-inner5{
+    width: 89.5%;
+    height: 20%;
+    background: #049285;
+    position: absolute;
+    top: 70.5%;
+    border-radius: 0px 0px 25px 25px;
+    text-align: center;
+}
+.teach-inner1:hover{
+    background: #bdb7b4;
+}
+.teach-inner2:hover{
+    background: #bdb7b4;
+}
+.teach-inner3:hover{
+    background: #bdb7b4;
+}
+.teach-inner4:hover{
+    background: #bdb7b4;
+}
+.teachers .teach-inner5:hover{
+    background: #bdb7b4;
+}
+.teach-inner1 p{
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+    color: #fff;
+}
+.teach-inner1 strong{
+    color: #fff;
+    font-weight: 600;
+}
+.teach-inner1 h6{
+    color: #000;
+    font-weight: 600;
+}
+.teach-inner2 p{
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+    color: #fff;
+}
+.teach-inner2 strong{
+    color: #fff;
+    font-weight: 600;
+}
+.teach-inner2 h6{
+    color: #000;
+    font-weight: 600;
+}
+.teach-inner3 p{
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+    color: #fff;
+}
+.teach-inner3 strong{
+    color: #fff;
+    font-weight: 600;
+}
+.teach-inner3 h6{
+    color: #000;
+    font-weight: 600;
+}
+.teach-inner4 p{
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+    color: #fff;
+}
+.teach-inner4 strong{
+    color: #fff;
+    font-weight: 600;
+}
+.teach-inner4 h6{
+    color: #000;
+    font-weight: 600;
+}
+.teach-inner5 p{
+    font-size: 16px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+    color: #fff;
+}
+.teach-inner5 strong{
+    color: #fff;
+    font-weight: 600;
+}
+.teach-inner5 h6{
+    color: #000;
+    font-weight: 600;
+}
+/*********************************/
+/*Teachers section css code end*/
+/*********************************/
+
+/*********************************/
+/*corousel section css code start*/
+/*********************************/
+.corousel-section{
+    width: 100%;
+    background: url(../img/t.png) center top no-repeat;
+    background-size: cover;
+}  
+.i{
+    width: 100%;
+    padding: 70px 0px;
+}
+.owl-carousel .item .i img {
+    width: 30%;
+    margin: 0px auto;
+}
+.owl-carousel .owl-item .i h2{
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    font-family: 'Dosis', sans-serif;
+}
+.owl-carousel .owl-item .i p{
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.owl-carousel .owl-item .test-inner1 h2{
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'Dosis', sans-serif;
+}
+.owl-carousel .owl-item .test-inner1 p{
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+/*********************************/
+/*corousel section css code end*/
+/*********************************/
+
+/*************************************/
+/*Notice-board-section css code start*/
+/*************************************/
+.notice-board-section{
+    width: 100%;
+    padding: 60px 0px 45px;
+}
+.notice-board-section .notice h2{
+    font-size: 35px;
+    color: #00a4d3;
+    font-weight: 600;
+    margin-bottom: 40px;
+    font-family: 'Dosis', sans-serif;
+}
+.card{
+    width: 100%;
+    border: none;
+}
+.card img{
+    width: 100%;
+}
+.card .card-title{
+    font-size: 13px;
+    color: #8a8a8a;
+    font-family: 'Roboto', sans-serif;
+}
+.card .card-text{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+/*************************************/
+/*Notice-board-section css code end*/
+/*************************************/
+
+/*********************************/
+/*Official section css code start*/
+/*********************************/
+.official-section{
+    width: 100%;
+}
+.official-section .col-md-3{
+    padding: 0px;
+}
+.inner1{
+    width: 100%;
+    text-align: center;
+    padding: 37px 49px;
+}
+.inn1{
+    background: #f5f5f5;
+    padding: 4px 0px;
+}
+.inner1 h5{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 17px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.inner1 i{
+    font-size: 11px;
+}
+.inner1 p{
+    font-size: 15px;
+    padding: 0px;
+    margin-bottom: 0px;
+    color: #a4a4a4;
+    font-family: 'Roboto', sans-serif;
+}
+.inn21{
+    background: #fafafa;
+    padding: 42px 0px;
+}
+.inner21{
+    width: 100%;
+    text-align: center;
+    margin-top: 11px;
+}
+.inner21 h5{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+.inner21 i{
+    font-size: 11px;
+}
+.inner21 p{
+    font-size: 15px;
+    padding: 0px;
+    margin-bottom: 0px;
+    color: #a4a4a4;
+    font-family: 'Roboto', sans-serif;
+}
+.inner{
+    width: 100%;
+    text-align: center;
+}
+.inn2{
+    background: #f5f5f5;
+    padding: 39px 0px;
+}
+.inner h5{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+.inner i{
+    font-size: 11px;
+}
+.inner p{
+    font-size: 15px;
+    padding: 0px;
+    margin-bottom: 0px;
+    color: #a4a4a4;
+    font-family: 'Roboto', sans-serif;
+}
+.inner22{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+.inn22{
+    background: #fafafa;
+    padding: 37px 0px;
+}
+.inner22 h5{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+.inner22 i{
+    font-size: 11px;
+}
+.inner22 p{
+    font-size: 15px;
+    padding: 0px;
+    margin-bottom: 0px;
+    color: #a4a4a4;
+    font-family: 'Roboto', sans-serif;
+}
+/*********************************/
+/*Official section css code end*/
+/*********************************/
+
+/********************************/
+/* Footer section css code start*/
+/********************************/
+.footer-img{
+    width: 100%;
+}
+.footer-img .col-md-12{
+    padding: 0px;
+}
+.foot img{
+    width: 100%;
+}
+/********************************/
+/* Footer section css code end*/
+/********************************/
+
+/************************************/
+/* Footer top section css code start*/
+/************************************/
+.footer-top-section{
+    width: 100%;
+    margin-bottom: -50px;
+}
+.footer-top-section .foot-in h5{
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-footer-in .input-group .form-control {
+    font-size: 16px;
+    padding: 10px 12px;
+    background: transparent;
+    border: 1px solid #c4c4c4;
+    border-radius: 0px;
+}
+.input-group-append {
+    margin-left: 7px;
+}
+.input-group-append .btn-outline-secondary{
+    background: #00a4d3;
+    color: #fff;
+    border: 1px solid #00a4d3;
+    border-radius: 0px;
+    text-transform: uppercase;
+}
+.btn-outline-secondary:hover{
+    background: transparent;
+    color: #00a4d3;
+    border: 1px solid #00a4d3;
+}
+.foot-in{
+    margin-bottom: 98px;
+}
+.foot-mid1 h5{
+    font-size: 16px;
+    font-weight: 600;
+    color: #00a4d3;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+.foot-mid1 h6{
+    font-size: 16px;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+}
+.foot-mid1 .div p{
+    font-size: 15px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.foot-mid1 .div strong{
+    font-size: 15px;
+    color: #00a4d3;
+    font-family: 'Roboto', sans-serif;
+}
+.div{
+    margin-top: 40px;
+}
+.foot-mid2 h5{
+    font-size: 16px;
+    font-weight: 600;
+    color: #00a4d3;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+.foot-mid2 a h6{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    color: #000;
+}
+.icon{
+    margin-top: 50px;
+}
+.icon ul li{
+    list-style: none;
+    display: inline-block;
+}
+.icon ul li a{
+    font-size: 44px;
+    text-align: center;
+}
+.icon ul li a i{
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    background-color: #00a4d3;
+    border: 1px solid #00a4d3;
+    color: #fff;
+    transition: 0.5s;
+    margin-right: 30px;
+    border-radius: 12px;
+}
+.icon ul li a .fa-facebook:hover{
+    background-color: #3b5998;
+    border: 1px solid #3b5998;
+    color: #fff;
+}
+.icon ul li a .fa-youtube:hover{
+    background-color: #FF0000;
+    border: 1px solid #FF0000;
+    color: #fff;
+}
+.icon ul li a .fa-twitter:hover{
+    background-color: #00acee;
+    border: 1px solid #00acee;
+    color: #fff;
+}
+.icon ul li a .fa-linkedin:hover{
+    background-color: #0e76a8;
+    border: 1px solid #0e76a8;
+    color: #fff;
+}
+.icon ul li a .fa-instagram:hover{
+    background-color: #FD1D1D;
+    border: 1px solid #FD1D1D;
+    color: #fff;
+}
+.foot-bot1 p{
+    font-size: 15px;
+    color: #00a4d3;
+    margin-top: 50px;
+}
+/************************************/
+/* Footer top section css code end*/
+/************************************/
+
+/*******************************/
+/*footer-section css code start*/
+/*******************************/
+.footer-section{
+    width: 100%;
+}
+.footer-section .col-md-12{
+    padding: 0px;
+}
+.footer-section .fo img{
+    width: 100%;
+}
+/*******************************/
+/*footer-section css code end*/
+/*******************************/
+
+
+/******************************************/
+/**********Mediea query css code start*****/
+/******************************************/
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+.main-nav img {
+    width: 58%;
+    margin-left: 16px;
+}
+.navbar-light .navbar-toggler {
+    margin-right: 17px;
+}
+.navbar-brand {
+    margin-right: 0px;
+}
+.navbar-light .navbar-nav .active>.nav-link {
+    color: #000;
+    text-align: center;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    text-align: center;
+}
+.banner img {
+    margin-top: 65px;
+}
+.banner-inner h1 {
+    font-size: 43px;
+}
+.banner-inner h2 {
+    font-size: 21px;
+}
+.banner-inner .btn-info {
+    margin-left: 26%;
+}
+.banner-inner {
+    margin-top: 10%;
+}
+.aboutus-section .about h1 {
+    font-size: 36px;
+}
+.aboutus-section .about p {
+    font-size: 11px;
+    font-weight: 700;
+}
+.abut-u img {
+    width: 100%;
+    margin-top: 20px;
+}
+.aboutus-section {
+    padding: 26px 0px 30px;
+}
+.courses-section .course h1 {
+    font-size: 31px;
+    text-align: center;
+}
+.courses-section .course p {
+    font-size: 11px;
+    font-weight: 600;
+    text-align: center;
+}
+.courses-section .course2 {
+    width: 100%;
+    padding: 23px 24px;
+}
+.courses-section .course2 p {
+    font-size: 16px;
+}
+.courses-section .course1 img {
+    display: none;
+}
+.courses-section .course01 {
+    width: 100%;
+    padding: 23px 24px;
+}
+.courses-section .course01 p{
+    font-size: 16px;
+}
+.courses-section {
+    padding: 55px 0px 55px;
+}
+.facilities {
+    margin-top: 10%;
+}
+.facilities img {
+    margin-top: 5%;
+    margin-left: 43%;
+}
+.facilitie img {
+    margin-top: 5%;
+    margin-left: 43%;
+}
+.fa2 h2 {
+    margin-top: 28px;
+}
+.facilities_section {
+    padding: 50px 0px 32px;
+}
+.teachers .teach-inner1 {
+    width: 92%;
+    height: 17%;
+    top: 77%;
+}
+.teachers .teach-inner2 {
+    width: 92%;
+    height: 17%;
+    top: 77%;
+}
+.teachers .teach-inner3 {
+    width: 92%;
+    height: 17%;
+    top: 77%;
+}
+.teachers .teach-inner4 {
+    width: 92%;
+    height: 17%;
+    top: 77%;
+}
+.teachers .teach-inner5 {
+    width: 92%;
+    height: 17%;
+    top: 77%;
+}
+.teachers-section {
+    padding: 22px 0px;
+}
+.owl-carousel .owl-item .i h2 {
+    font-size: 39px;
+    margin-bottom: 14px;
+    margin-top: 14px;
+}
+.owl-carousel .owl-item .i p {
+    font-size: 13px;
+}
+.i {
+    padding: 30px 0px;
+}
+.notice-board-section {
+    padding: 40px 0px 20px;
+}
+.card {
+    width: 100%;
+    border: 1px solid #f5f5f5;
+    margin-bottom: 40px;
+}
+.foot-in {
+    margin-bottom: 20px;
+}
+.input-group-append .btn-outline-secondary {
+    font-size: 13px;
+}
+.div {
+    margin-top: 8px;
+}
+.icon ul li a {
+    font-size: 35px;
+}
+.icon ul li a i {
+    width: 62px;
+    height: 62px;
+    line-height: 63px;
+    margin-right: 0px;
+}
+.foot-bot1 p {
+    font-size: 14px;
+    margin-top: 28px;
+}
+.foot-bot2 img{
+    margin-left: 35px;
+    margin-bottom: 30px;
+}
+}
+
+/******************************************/
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+/******************************************/
+
+@media (min-width: 481px) and (max-width: 768px) {
+.navbar-light .navbar-nav .active>.nav-link {
+    color: #000;
+    text-align: right;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    text-align: right;
+}
+.banner-inner h1 {
+    font-size: 50px;
+}
+.banner-inner .btn-info {
+    margin-left: 24%;
+}
+.aboutus-section .about p {
+    font-size: 11px;
+}
+.courses-section .course h1 {
+    font-size: 32px;
+}
+.courses-section .course p {
+    font-size: 14px;
+}
+.courses-section .course2 i {
+    font-size: 14px;
+}
+.courses-section .course2 h4 {
+    font-size: 14px;
+}
+.courses-section .course2 p {
+    display: none;
+}
+.courses-section .course2 a {
+    font-size: 13px;
+}
+.courses-section .course01 p {
+     font-size: 14px;
+}
+.courses-section .course01 i {
+    font-size: 14px;
+}
+.courses-section .course01 h4 {
+    font-size: 14px;
+}
+.courses-section .course01 p {
+    display: none;
+}
+.courses-section .course01 a {
+    font-size: 13px;
+}
+.facilities img {
+    margin-top: 12%;
+    margin-left: 25%;
+}
+.facilitie img {
+    margin-top: 12%;
+    margin-left: 23%;
+}
+.facilitie {
+    width: 110%;
+}
+.facilities {
+    width: 110%;
+}
+.owl-carousel .owl-item .i p {
+    font-size: 13px;
+}
+.inner1 {
+    padding: 37px 0px;
+}
+.foot-mid2{
+    margin-left: 32px;
+}
+.icon ul li a {
+    font-size: 31px;
+}
+.icon ul li a i {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    margin-right: 1px;
+}
+.foot-bot2 img{
+    margin-left: 84px;
+}
+.foot-bot1 p {
+    font-size: 9px;
+}
+.footer-section .fo img {
+    margin-top: 37px;
+}
+}
+
+/******************************************/
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+/******************************************/
+
+@media (min-width: 769px) and (max-width: 1024px){
+.courses-section .course h1 {
+    font-size: 40px;
+}
+.courses-section .course2 {
+    width: 100%;
+    padding: 28px 27px;
+}
+.courses-section .course01{
+    padding: 28px 27px;
+}
+.i {
+    padding: 22px 0px;
+}
+.facilities img {
+    margin-left: 30%;
+}
+.facilitie img {
+    margin-left: 30%;
+}
+.teach-inner1 p{
+    margin-top: 2px;
+}
+.teach-inner2 p{
+    margin-top: 2px;
+}
+.teach-inner3 p {
+    margin-top: 2px;
+}
+.teach-inner4 p{
+    margin-top: 2px;
+}
+.teach-inner5 p{
+    margin-top: 2px;
+}
+.card .card-text {
+    font-size: 14px;
+}
+.inner1 p {
+    font-size: 11px;
+}
+.icon ul li a i {
+    margin-right: 15px;
+}
+.foot-bot1 p {
+    font-size: 12px;
+}
+}
